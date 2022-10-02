@@ -23,8 +23,8 @@ body{
 .container h1{
     color: white;
     border-bottom:2px solid  greenyellow;
-    width: 200px;
-    margin: 54px 130px;
+    width: 232px;
+    margin: 54px 116px;
     text-align: center;
     padding-top: 40px;
 }
@@ -59,4 +59,5 @@ body{
     color: greenyellow;
     margin: 0px 149px;
     font-size: 22px;
+    width: 217px;
 }
