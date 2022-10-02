@@ -1,0 +1,62 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+body{
+    background: url('Blackblocks.jpg') no-repeat;
+    background-size: cover;
+
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.753);
+    width: 450px;
+    height: 547px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-top: 400px;
+    transform: translate(-50%,-50%);
+    box-shadow: 10px 10px 12px 10px black;
+    /* text-align: ; */
+}
+.container h1{
+    color: white;
+    border-bottom:2px solid  greenyellow;
+    width: 200px;
+    margin: 54px 130px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#inputnum {
+    background: none;
+    border: none;
+    color: aliceblue;
+    border-bottom: 2px solid greenyellow;
+    font-size: 20px;
+    margin: 30px 124px;
+    padding: 6px 0px;
+    margin-top: -15px;
+}
+.container button{
+    color: greenyellow;
+    background-color: black;
+    border: 2px solid greenyellow;
+
+    margin: 12px 161px;
+    padding: 3px 24px;
+    font-size: 21px;
+    cursor: pointer;
+    border-radius: 20px;
+    box-shadow: 12px;
+}
+.container button:hover{
+    color: blue;
+    border: 2px solid greenyellow;
+}
+.container p{
+    color: greenyellow;
+    margin: 0px 149px;
+    font-size: 22px;
+}
