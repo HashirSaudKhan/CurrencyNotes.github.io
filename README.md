@@ -1,2 +1,2 @@
 # CurrencyNotes.github.io
-Currency Notes using Html , Css & Javascript.
+Currency Notes change using Html , Css & Javascript.
